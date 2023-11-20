@@ -16,7 +16,7 @@
 - Установленное приложение [Мегафон](https://megafon.ru/help/lk/)
 
 ### Автор: 
-[4pda](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=111257541) или [Telegram](https://t.me/Blue_cat1)
+[4pda](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=111257541) или [Telegram](https://t.me/lsposed_workshop)
 
 
 ## For non-Russian users:
